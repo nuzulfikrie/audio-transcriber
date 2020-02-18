@@ -24,3 +24,6 @@ This project uses Google-Speech-to-Text to transcribe audio file to readable tex
 - [CloudConvert API](https://cloudconvert.com/api)
 - [Google Cloud Storage API](https://cloud.google.com/storage/)
 
+
+## https://medium.com/@nedsoft/audio-transcription-using-google-speech-to-text-and-google-cloud-storage-7d6877c6057f
+
